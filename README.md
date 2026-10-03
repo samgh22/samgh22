@@ -92,7 +92,7 @@ My work centres on business impact: building decision systems, translating data 
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=samgh22&show_icons=true&hide_border=true&theme=transparent&title_color=768390&text_color=768390&icon_color=768390&hide_rank=true" />
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=samgh22&show_icons=true&hide_border=true&theme=transparent&title_color=768390&text_color=768390&icon_color=768390&hide_rank=true&count_private=true" />
 &nbsp;
 <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samgh22&layout=compact&hide_border=true&theme=transparent&title_color=768390&text_color=768390&langs_count=6" />
 
